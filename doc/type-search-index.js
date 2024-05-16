@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"<Unnamed>","l":"CrosswordGUI"},{"p":"<Unnamed>","l":"CrosswordLayout"},{"p":"<Unnamed>","l":"CrosswordPanel"},{"p":"<Unnamed>","l":"Frame"},{"p":"<Unnamed>","l":"JTextFieldLimit"},{"p":"<Unnamed>","l":"Main"},{"p":"<Unnamed>","l":"Word"}];updateSearchResults();
